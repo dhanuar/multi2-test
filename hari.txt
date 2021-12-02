@@ -3,3 +3,4 @@ Banglore
 Works as an Architect
 For xyz company
 From banglore location
+He works on DevOps tools
