@@ -2,3 +2,4 @@ This is new file for devops demo
 Hari kammana
 Runs a business
 Banglore City
+Ansible is popular configuration management tool
