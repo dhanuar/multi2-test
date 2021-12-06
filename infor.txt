@@ -1,7 +1,7 @@
 This is new file for devops demo
 Hari kammana
 Runs a business
-Banglore City is cool city
+Banglore City
 Docker is the way to isolate applications
 Ansible is popular configuration management tool
 Kubernetes is best orchestration tool
